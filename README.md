@@ -20,8 +20,8 @@
 - **ICISSP 2024 C**
   - [Fuzzing Matter(s): A White Paper for Fuzzing the Matter Protocol](https://doi.org/10.5220/0012469200003648)
 - **ICSE 2024 A\***
-  - [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/abs/2308.04748)
-  - [Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/61/Large-Language-Models-are-Edge-Case-Generators-Crafting-Unusual-Programs-for-Fuzzing)
+  - [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/abs/2308.04748) **V**
+  - [Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/61/Large-Language-Models-are-Edge-Case-Generators-Crafting-Unusual-Programs-for-Fuzzing) **V**
   - [ECFuzz: Effective Configuration Fuzzing for Large-Scale Systems](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/30/ECFuzz-Effective-Configuration-Fuzzing-for-Large-Scale-Systems)
   - [EDEFuzz: A Web API Fuzzer for Excessive Data Exposures](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/12/EDEFuzz-A-Web-API-Fuzzer-for-Excessive-Data-Exposures)
   - [FuzzSlice: Pruning False Positives in Static Analysis Warnings through Function-Level Fuzzing](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/39/FuzzSlice-Pruning-False-Positives-in-Static-Analysis-Warnings-through-Function-Level)

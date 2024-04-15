@@ -43,7 +43,7 @@
   - [Fuzzing Loop Optimizations in Compilers for C++ and Data-Parallel Languages](https://pldi23.sigplan.org/details/pldi-2023-pldi/76/Fuzzing-Loop-Optimizations-in-Compilers-for-C-and-Data-Parallel-Languages)
   - [WasmRef-Isabelle: a Verified Monadic Interpreter and Industrial Fuzzing Oracle for WebAssembly](https://pldi23.sigplan.org/details/pldi-2023-pldi/5/WasmRef-Isabelle-A-Verified-Monadic-Interpreter-and-Industrial-Fuzzing-Oracle-for-We)
 - **S&P 2023 A\***
-  - [SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b050/1Js0DBwgpwY)
+  - [SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b050/1Js0DBwgpwY) **V**
   - [UTOPIA: Automatic Generation of Fuzz Driver using Unit Tests](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a746/1OXH6X6Fexi)
   - [TEEzz: Fuzzing Trusted Applications on COTS Android Devices](http://hexhive.epfl.ch/publications/files/23Oakland.pdf)
   - [Toss a Fault to Your Witcher: Applying Grey-box Coverage-Guided Mutational Fuzzing to Detect SQL and Command Injection Vulnerabilities](https://ieeexplore.ieee.org/abstract/document/10179317)

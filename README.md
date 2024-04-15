@@ -48,7 +48,7 @@
   - [TEEzz: Fuzzing Trusted Applications on COTS Android Devices](http://hexhive.epfl.ch/publications/files/23Oakland.pdf)
   - [Toss a Fault to Your Witcher: Applying Grey-box Coverage-Guided Mutational Fuzzing to Detect SQL and Command Injection Vulnerabilities](https://ieeexplore.ieee.org/abstract/document/10179317)
   - [Finding Specification Blind Spots via Fuzz Testing](https://ieeexplore.ieee.org/document/10179438/)
-  - [SEGFUZZ: Segmentizing Thread Interleaving to Discover Kernel Concurrency Bugs through Fuzzing](https://www.computer.org/csdl/proceedings-article/sp/2023/933600c104/1OXH3RXf7JC)
+  - [SEGFUZZ: Segmentizing Thread Interleaving to Discover Kernel Concurrency Bugs through Fuzzing](https://www.computer.org/csdl/proceedings-article/sp/2023/933600c104/1OXH3RXf7JC) **V**
   - [RSFuzzer: Discovering Deep SMI Handler Vulnerabilities in UEFI Firmware with Hybrid Fuzzing](https://ieeexplore.ieee.org/abstract/document/10179421)
   - [ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing](https://arxiv.org/pdf/2304.04233.pdf)
   - [VIDEZZO: Dependency-aware Virtual Device Fuzzing](http://www.nebelwelt.net/publications/files/23Oakland4.pdf)
